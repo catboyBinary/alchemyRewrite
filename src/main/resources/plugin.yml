@@ -1,0 +1,5 @@
+name: Alchemy
+version: '${project.version}'
+main: me.b1n4ry.alchemy.Alchemy
+api-version: 1.19
+authors: [ b1n4ry ]
